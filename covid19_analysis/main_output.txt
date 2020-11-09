@@ -1,0 +1,81 @@
+
+2478 total number of tweets
+
+20 most common Tokens
+	1. #codvid19: 1413
+	2. #pandemia: 223
+	3. #coronavirus: 186
+	4. quarentena: 174
+	5. coronavirus: 153
+	6. medidas: 96
+	7. @alvisepf: 95
+	8. pandemia: 92
+	9. mexico: 91
+	10. burros: 83
+	11. @aritagoncalvess: 82
+	12. sairem: 82
+	13. ferias: 82
+	14. oms: 81
+	15. caso: 80
+	16. gente: 77
+	17. sanidad: 77
+	18. #coronavid19: 76
+	19. menos: 74
+	20. ningun: 70
+
+20 most common Hashtags
+	1. #codvid19: 1413
+	2. #pandemia: 223
+	3. #coronavirus: 186
+	4. #coronavid19: 76
+	5. #infocoronavirus: 66
+	6. #covid19: 54
+	7. #murcia: 39
+	8. #cerradmadrid: 39
+	9. #casoere: 38
+	10. #ultimahora: 22
+	11. #frenarlacurva: 21
+	12. #coranavirusitalia: 19
+	13. #urgente: 18
+	14. #papelhigienico: 18
+	15. #11marzo: 17
+	16. #madrid: 17
+	17. #coronavirusespana: 16
+	18. #covid19espana: 14
+	19. #sup: 12
+	20. #dgp: 12
+
+20 most common Terms without mentions and hashtags
+	1. quarentena: 174
+	2. coronavirus: 153
+	3. medidas: 96
+	4. pandemia: 92
+	5. mexico: 91
+	6. burros: 83
+	7. sairem: 82
+	8. ferias: 82
+	9. oms: 81
+	10. caso: 80
+	11. gente: 77
+	12. sanidad: 77
+	13. menos: 74
+	14. ningun: 70
+	15. millones: 69
+	16. aclarar: 68
+	17. encuentra: 68
+	18. gustaria: 67
+	19. ingresado: 67
+	20. taller: 66
+
+ Tweets locations:
+	1. Location not set: 2443
+	2. ES: 20
+	3. MX: 4
+	4. PA: 2
+	5. IT: 2
+	6. MU: 2
+	7. DO: 1
+	8. AR: 1
+	9. PT: 1
+	10. HN: 1
+	11. PE: 1
