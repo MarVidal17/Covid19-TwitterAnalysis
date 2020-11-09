@@ -1,7 +1,9 @@
 # Tweets Analysis for #covid19
 > February 2020
+>
 > Project for the [Cloud Computing and Big Data Analytics course](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/syllabus/CCBDA-MIRI)
-> Team members: Jorrit Palfner (palfner.jorrit@estudiantat.upc.edu) and Mar Vidal (mar.vidal@estudiantat.upc.edu)
+> 
+>Team members: Jorrit Palfner (palfner.jorrit@estudiantat.upc.edu) and Mar Vidal (mar.vidal@estudiantat.upc.edu)
 
 ## Introduction
 Get insight about the mood of people regarding the increasing thread of coronavirus in Spain from posted tweets with #covid19.
